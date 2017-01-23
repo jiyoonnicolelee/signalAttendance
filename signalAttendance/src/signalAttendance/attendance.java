@@ -9,9 +9,9 @@ ArrayList<String> signal = new ArrayList <String>();
 signal.add("Park Hae-young");
 signal.add("Kim Bum-joo");
 System.out.println(signal.get(0)+"'s brother dies as suicide(the truth is "
-		+ signal.get(3)+" killed Park Hae-young's brother)");
+		+ signal.get(1)+" killed Park Hae-young's brother)");
 System.out.println("Kim yoon-jung kidnap case happens.");
-
+signal.add("Lee Jae-han");
 System.out.println(signal.get(2)+ " goes missing (dies) while investigating the Inju incident and the corruption behind it.");
 signal.remove("Lee Jae-han");
 
